@@ -1,1 +1,1 @@
-https://github.com/mahardikadwi/single-page-website-roadmap.sh
+https://roadmap.sh/projects/basic-html-website
